@@ -27,7 +27,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 [MIT](https://choosealicense.com/)
 
+### **Markdown ile oluşturduğum dosyanın resmi:**
 
+![Proje Resmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
 
 ## ***[Patika Profilime Ulaşmak için Tıklayınız](https://app.patika.dev/zeynepgunturkun)***
